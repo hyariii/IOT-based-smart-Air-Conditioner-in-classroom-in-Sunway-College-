@@ -1,1 +1,1 @@
-# IOT-based-smart-Air-Conditioner-in-classroom-in-Sunway-College-
+# IOT based Smart Air Conditioner in Classroom
